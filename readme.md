@@ -10,4 +10,4 @@
 
 [Tutorial on youtube](https://www.youtube.com/watch?v=XJ42pfSI-DY)
 
-[![IMAGE ALT TEXT HERE](https://www.youtube.com/watch?v=XJ42pfSI-DY/0.jpg)](https://www.youtube.com/watch?v=XJ42pfSI-DY)
+[![https://www.youtube.com/watch?v=XJ42pfSI-DY/0.jpg](https://www.youtube.com/watch?v=XJ42pfSI-DY)
