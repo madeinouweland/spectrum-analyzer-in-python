@@ -9,5 +9,3 @@
 ## Tutorial
 
 [Tutorial on youtube](https://www.youtube.com/watch?v=XJ42pfSI-DY)
-
-![www.youtube.com/watch?v=XJ42pfSI-DY/0.jpg](www.youtube.com/watch?v=XJ42pfSI-DY)
